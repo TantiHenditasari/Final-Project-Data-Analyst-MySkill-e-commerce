@@ -10,7 +10,7 @@ This project leverages the following tools for data extraction, analysis, and vi
 - **Google Colab:** a cloud-based platform employed for executing Python code, enabling in-depth data analysis, including cleaning and transformation processes.
 - **Google Sheets:** used for efficient data management, organization, validation, and quick preliminary analysis.
 - **Looker Studio:** a powerful platform used to build interactive dashboards easily, capable of connecting to various data sources for comprehensive visualization.
-## KEY FINDINGS AND INSIGHTS
+## KEY FINDINGS, INSIGHTS AND RECOMMENDATIONS
 ### 1. Data Analysis using SQL
 #### Answer No 1
 Insights: In 2021, the highest transaction value was recorded in August, with total sales amounting to 227,862,694
@@ -29,6 +29,13 @@ Recommendations:
 - Leverage the successful marketing strategies from this category as a benchmark to improve sales performance across other product categories
 
 #### Answer No 3
+Insights: From a comparison of 2021 and 2022 sales data, the 'Books' and 'Others' categories experienced a decrease in transaction value, while all other categories showed an increase
+
+Recommendations:
+- Conduct a thorough analysis and evaluation of products within the categories experiencing sales decline to understand the underlying reasons
+- Optimize and enhance advertising and promotional efforts for the declining categories, leveraging successful marketing strategies from categories that showed growth
+- Implement inventory clearance and flash sales, particularly for slow-moving or outdated items. Alternatively, explore product return options with manufacturers if contractual agreements permit
+- Continuously stay updated with market trends and consumer preferences to boost sales in the 'Others' and 'Books' categories
 
 #### Answer No 4
 
