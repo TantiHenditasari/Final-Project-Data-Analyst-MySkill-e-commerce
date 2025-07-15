@@ -19,8 +19,19 @@ Recommendations:
 - Conduct a comprehensive analysis of the August sales peak to identify the underlying drivers and ensure optimal inventory levels for high-performing products in anticipation of future promotional events
 - Leverage the insights gained from August's performance to develop and implement scalable sales strategies aimed at optimizing revenue generation across other months
 
+#### Answer No 2
+Insights: In 2022, the 'Mobiles & Tablets' category generated the highest transaction value, amounting to 918,451,572
 
+Recommendations:
+- Conduct a thorough analysis and evaluation of sales trends within the 'Mobiles & Tablets' category to identify top-selling products and understand their underlying success factors
+- Optimize advertising and promotional efforts specifically for this category to enhance its sales performance and market share further
+- Continuously stay updated with technological advancements and product trends in the 'Mobiles & Tablets' sector to ensure sustained sales optimization
+- Leverage the successful marketing strategies from this category as a benchmark to improve sales performance across other product categories
 
+#### Answer No 3
 
+#### Answer No 4
 
+#### Answer No 5
 
+### 2. Data Analysis using Pyhton
