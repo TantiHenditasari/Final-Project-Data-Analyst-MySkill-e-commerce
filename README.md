@@ -14,6 +14,7 @@ This project leverages the following tools for data extraction, analysis, and vi
 ### 1. Data Analysis using SQL
 #### Answer No 1
 Insights: In 2021, the highest transaction value was recorded in August, with total sales amounting to 227,862,694
+
 Recommendations:
 - Conduct a comprehensive analysis of the August sales peak to identify the underlying drivers and ensure optimal inventory levels for high-performing products in anticipation of future promotional events
 - Leverage the insights gained from August's performance to develop and implement scalable sales strategies aimed at optimizing revenue generation across other months
