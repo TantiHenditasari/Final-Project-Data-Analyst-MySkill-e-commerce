@@ -10,24 +10,7 @@ This project leverages the following tools for data extraction, analysis, and vi
 - **Google Colab:** a cloud-based platform employed for executing Python code, enabling in-depth data analysis, including cleaning and transformation processes.
 - **Google Sheets:** used for efficient data management, organization, validation, and quick preliminary analysis.
 - **Looker Studio:** a powerful platform used to build interactive dashboards easily, capable of connecting to various data sources for comprehensive visualization.
-## RESULT OF ANALYSIS
-### 1. SQL Data Analysing 
-#### Questions
-1. During transactions that occurred in 2021, in which month was the total transaction value (after_discount) the largest? Use is_valid = 1 to filter transaction data
-2. During transactions in 2022, which category generated the largest transaction value? Use is_valid = 1 to filter transaction data
-3. Compare the transaction values of each category in 2021 with 2022. Specify which categories experienced an increase and which categories experienced a decrease in transaction value from 2021 to 2022
-4. Display the top 5 most popular payment methods used during 2022 (based on total unique orders)
-5. Sort these 5 products by their transaction value: Samsung, Apple, Sony, Huawei, Lenovo
-#### Answer No 1
-select
-  format_date('%B', order_date) as month_name,
-  extract(month from order_date) as month_numb,
-  sum (after_discount) as total_transactions
-from main_data
-where extract (year from order_date) = 2021 and is_valid = 1
-group by month_numb, month_name
-order by total_transactions desc
-limit 1
+
 
 
 
