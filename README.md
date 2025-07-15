@@ -38,7 +38,23 @@ Recommendations:
 - Continuously stay updated with market trends and consumer preferences to boost sales in the 'Others' and 'Books' categories
 
 #### Answer No 4
+Insights: In 2022, the most popular payment methods were Cash on Delivery (COD), PayAxis, Customer Credit, EasyPay, and Jazzwallet. COD emerged as the primary choice for customers, for over 1,800 transactions
+
+Recommendations:
+- Enhance logistical reliability to further support the Cash on Delivery (COD) method, thereby improving performance and service quality, and solidifying it as a core strength of the company
+- Increase the promotion of alternative payment methods, especially digital options, by offering various incentives. Digital methods provide advantages such as enhanced security and operational efficiency, which are not inherent in COD
+- Conduct further research into the challenges or drawbacks associated with other payment methods to gain a deeper understanding of their lower adoption rates
 
 #### Answer No 5
+Insights:
+- Samsung dominates with a transaction value of 588,764,062, slightly surpassing Apple's sales of 444,855,280, which holds the second position
+- There is a significant transaction value gap between Samsung and Apple compared to the other three brands
+- Sony, Huawei, and Lenovo compete closely with nearly equivalent transaction values."
 
+Recommendations:
+- Prioritize inventory and promotional efforts for Samsung and Apple products, as they consistently demonstrate sales dominance with the highest transaction values
+- Evaluate the sales strategies for the other three brands (Sony, Huawei, and Lenovo) to identify areas for improvement
+- Develop distinct marketing strategies for Sony, Huawei, and Lenovo, given their similar transaction values, to enhance each brand's competitiveness
+- Continuously stay updated with technological advancements and product trends to align with market demands, particularly focusing on features of top-selling products
+  
 ### 2. Data Analysis using Pyhton
