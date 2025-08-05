@@ -12,6 +12,7 @@ This project leverages the following tools for data extraction, analysis, and vi
 - **Looker Studio:** a powerful platform used to build interactive dashboards easily, capable of connecting to various data sources for comprehensive visualization.
 ## KEY FINDINGS, INSIGHTS AND RECOMMENDATIONS
 ### 1. Data Analysis using SQL
+Link: https://drive.google.com/file/d/1AXup3suFo70u76ajc62xojuJ0BQ_gf1V/view?usp=sharing
 #### Answer No 1
 Insights: In 2021, the highest transaction value was recorded in August, with total sales amounting to 227,862,694
 
