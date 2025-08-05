@@ -12,7 +12,7 @@ This project leverages the following tools for data extraction, analysis, and vi
 - **Looker Studio:** a powerful platform used to build interactive dashboards easily, capable of connecting to various data sources for comprehensive visualization.
 ## KEY FINDINGS, INSIGHTS AND RECOMMENDATIONS
 ### 1. Data Analysis using SQL
-Link: https://drive.google.com/file/d/1AXup3suFo70u76ajc62xojuJ0BQ_gf1V/view?usp=sharing
+Link: https://github.com/TantiHenditasari/Final-Project-Data-Analyst-MySkill-e-commerce/tree/main/Data-Analysis-SQL
 #### Answer No 1
 Insights: In 2021, the highest transaction value was recorded in August, with total sales amounting to 227,862,694
 
@@ -59,7 +59,7 @@ Recommendations:
 - Continuously stay updated with technological advancements and product trends to align with market demands, particularly focusing on features of top-selling products
   
 ### 2. Data Analysis using Pyhton
-Link: https://drive.google.com/file/d/1t_N2oH54dc0kBlte6qLwy533Hi42xWiT/view?usp=sharing 
+Link: https://github.com/TantiHenditasari/Final-Project-Data-Analyst-MySkill-e-commerce/tree/main/Data-Analysis-Python
 #### Answer No 1
 Insights:
 - The top 5 best-selling products in the "Mobiles & Tablets" category are: IDROIX_BALRX7-Gold, IDROIX_BALRX7-Jet Black, Infinix Hot 4-Gold, Samsung_Grand Prime Plus-Black, and Infinix_Zero 4-Grey
@@ -93,4 +93,37 @@ Recommendations:
 - Conduct a deeper analysis into the market segmentation for the products with decreasing sales to understand which consumer groups are no longer purchasing them
 - Boost sales for these specific products by launching targeted marketing campaigns and promotional offers
 
+#### Answer No 3
+Insights:
+- In 2022, there were 820 customers who initiated the checkout process but did not complete their payment. This represents a significant opportunity to optimize our conversion rate and recover potential revenue
+- This behavior may be a result of customers not receiving promotions that align with their preferences, or it could be attributed to the expiration of a relevant seasonal trend
 
+Recommendations:
+- Launch a targeted re-engagement campaign for the customers on this list. This should include timely reminders and special offers tailored to their specific interests or the items left in their carts
+- Offer the exclusive promos during key moments, such as the company anniversary. This can serve as a powerful incentive to motivate these customers to complete their purchases
+
+#### Answer 4.1
+Insights:
+- Weekend sales experienced a consistent decline each month, while weekday sales showed a significant increase, particularly in December
+- Weekend sales were consistently lower than weekday sales, with October being the only exception, where the sales gap was minimal
+- If the campaign was primarily intended to boost weekend sales, it appears to have been ineffective, as performance declined after October
+- However, if the campaign's goal was to influence weekday sales, the widening sales gap in November and December suggests it was successful in shifting customer purchasing behavior
+- The declining weekend sales may be attributed to the holiday season, during which customers tend to focus on leisure activities rather than online purchasing
+
+Recommedations:
+- Perform a detailed analysis of customer behavior during this quarter, with a specific focus on holiday season trends, to gain a deeper understanding of the factors driving these sales patterns
+- Adjust the campaign strategy to align more effectively with market trends and seasonal demands
+- Create special offers and incentives, such as exclusive discounts or free shipping, specifically for weekend checkouts to increase engagement and improve the conversion rate on these days
+
+#### Answer 4.2
+Insights:
+- The average total weekend sales for the quarter stood at 6.1 million, while weekday sales were significantly higher at 8.5 million
+- Weekday sales consistently outperformed weekend sales, with a difference of $2.3 million, which represents a 38.64% increase
+
+Recommendations:
+- Conduct in-depth research to analyze customer behavior during weekends within this quarter
+- Implement a series of special, weekend-specific promotions and offers to incentivize purchases and increase conversion rates
+- Evaluate the successful components of the weekday sales campaign and determine how those strategies can be adapted or applied to boost weekend sales
+
+### 3. Data Visualizations using Google Looker Studio
+Link: https://github.com/TantiHenditasari/Final-Project-Data-Analyst-MySkill-e-commerce/tree/main/Data-Visualization-Looker_Studio
