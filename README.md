@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/32afaa26-896b-48fd-915c-98715c034f9f" /># FINAL PROJECT DATA ANALYST MYSKILL E-COMMERCE
+# FINAL PROJECT DATA ANALYST MYSKILL E-COMMERCE
 ## OVERVIEW
 This end-to-end data analysis project extracts strategic business insights and examines customer behavior within e-commerce utilizing SQL, Python, and Looker Studio.
 - SQL: utilized for data cleaning and extraction. SQL helped uncover sales and market patterns by observing customer behavior, providing crucial insights to inform strategies for sales optimization and growth
