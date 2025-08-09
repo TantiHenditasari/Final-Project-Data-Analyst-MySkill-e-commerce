@@ -1,4 +1,4 @@
-# FINAL PROJECT DATA ANALYST MYSKILL E-COMMERCE
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/32afaa26-896b-48fd-915c-98715c034f9f" /># FINAL PROJECT DATA ANALYST MYSKILL E-COMMERCE
 ## OVERVIEW
 This end-to-end data analysis project extracts strategic business insights and examines customer behavior within e-commerce utilizing SQL, Python, and Looker Studio.
 - SQL: utilized for data cleaning and extraction. SQL helped uncover sales and market patterns by observing customer behavior, providing crucial insights to inform strategies for sales optimization and growth
@@ -127,3 +127,25 @@ Recommendations:
 
 ### 3. Data Visualizations using Google Looker Studio
 Link: https://github.com/TantiHenditasari/Final-Project-Data-Analyst-MySkill-e-commerce/tree/main/Data-Visualization-Looker_Studio
+Link Looker Studio Project: https://lookerstudio.google.com/reporting/8443c110-ba78-453f-8163-2e651b5a22ba
+
+#### No 1
+Question: The marketing team would like to see the progress of the campaign in 2022. What was the trend like? Please provide an explanation and a call to action so the team can make future decisions
+
+Insights:
+- In 2022, overall, total sales volume peaked in April, August, and September. Concurrently, net profit reached its highest point in April, while Average Order Value (AOV) showed peaks in August and September. Conversely, the fourth quarter (Q4) consistently exhibited the lowest performance across sales, profit, and AOV
+- Despite a lower Average Order Value (AOV) in April, sales and net profit reached their peak. This indicates a high volume of transactions for items with strong profit margins, which significantly contributed to overall profitability even if the average value per order was not exceptionally high
+- Conversely, August and September exhibited high AOV and sales volume but yielded lower net profit margins. This suggests a high volume of transactions for higher-priced items that had lower profit margins, thereby boosting sales figures without translating into proportional profit growth
+- The observed drop in sales performance during Q4 may be attributed to the natural seasonality of the year-end period and potential shifts in market trends, which could impact consumer purchasing behavior
+  
+- In September, valid transactions across all categories reached their peak, with total sales hitting 559 million, generating 45 million in profit, and an Average Order Value (AOV) of 7.8 million. This suggests that while individual order values were high, the overall volume of valid transactions for high-value items contributed significantly to the peak sales performance
+- Conversely, invalid transactions peaked in August, recording 616 million in total sales, an associated 56 million in profit (from those invalid transactions), and a remarkably high AOV of 14 million. This indicates a substantial number of high-value orders that ultimately did not convert to valid transactions
+- The AOV data highlights a customer preference for high-priced items. Specifically, the high AOV observed in invalid transactions during August suggests a significant potential to recover and convert these high-value transactions into valid sales through improved validation processes, customer engagement, or addressing underlying issues causing invalidity
+
+- For valid transactions, the 'Mobiles & Tablets' category achieved its highest Average Order Value (AOV) of approximately 265 million in September. This exceptionally high AOV for a single month strongly suggests the occurrence of a large-scale, high-value purchase, potentially from a single customer or a substantial bulk order. Notably, the AOV for invalid transactions within this category also reached a significant 91 million in August. This indicates a considerable potential for revenue recovery if the issues causing these high-value transactions to become invalid can be identified and resolved
+- The 'Entertainment' category secured the second-highest AOV for valid transactions, peaking at around 8 million in April. This signifies that, on average, completed orders in this category during April involved a substantial monetary value. However, the AOV for invalid transactions in Entertainment reached a higher 14 million in April. This stark difference points to a significant missed opportunity, where high-value customer intent did not translate into completed sales due to unresolved issues within the transaction process
+- The 'Computing' category demonstrated high potential in April with an AOV of approximately 14 million for valid transactions and a corresponding profit of around 39 million. This shows strong customer willingness to spend significantly per order, translating into good profitability
+- The 'Appliances' category also presents a promising conversion opportunity, showing potential sales of approximately 77 million and a profit of 22 million, with AOVs ranging from 5 million to 7 million in May and June. This sustained performance over two months indicates a consistent interest in high-value appliance purchases
+
+- Cash-on-Delivery (COD) consistently remained the most favored payment method throughout 2022, despite exhibiting its highest transaction volumes in the first half of the year. Its sustained popularity likely stems from its perceived ease of use and accessibility for customers
+
