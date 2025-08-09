@@ -155,3 +155,11 @@ Most potential categories:
 Most favorite payment method:
 - Cash-on-Delivery (COD) consistently remained the most favored payment method throughout 2022, despite exhibiting its highest transaction volumes in the first half of the year. Its sustained popularity likely stems from its perceived ease of use and accessibility for customers
 
+Recommendations:
+- Conduct in-depth research and analysis into market trends and customer behavior across both peak and low seasons to develop a robust strategic marketing plan aimed at sustaining high sales performance during peak periods and mitigating declines during low seasons in the coming year
+- Dynamically adjust product recommendations and promotional strategies based on seasonal relevance, evolving market trends, distinct customer segments, and focus on understanding the customer journey from invalid to valid transactions especially on the high-potential categories, for the example is the Mobiles & Tablets category. This will ensure optimal product visibility and sales conversion
+- Launch focused promotional campaigns and seasonal events to maximize sales within categories demonstrating high conversion potential, such as Computing and Appliances. These campaigns should aim to attract and re-engage customers
+- Maintain proactive monitoring of the latest market and technological trends, particularly for high-contributing categories like Technology or Electronics items
+- Strategically optimize sales efforts for high-priced and high-profit items to consistently boost overall sales performance and profitability
+- Leverage Cash-on-Delivery (COD) as a company strength by maintaining its ease of use and accessibility, given its sustained popularity throughout 2022
+- Simultaneously, conduct comprehensive research and analysis to optimize the adoption and usage of other payment methods. Explore implementing promotions and incentives for alternative payment methods to reduce reliance on COD, potentially mitigating associated risks (e.g., failed deliveries, returns) and diversifying payment options
