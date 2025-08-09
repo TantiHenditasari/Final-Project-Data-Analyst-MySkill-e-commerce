@@ -135,25 +135,25 @@ Question: The marketing team would like to see the progress of the campaign in 2
 
 Insights:
 
-Overall sales performance trend:
+- Overall sales performance trend:
   - In 2022, overall, total sales volume peaked in April, August, and September. Concurrently, net profit reached its highest point in April, while Average Order Value (AOV) showed peaks in August and September. Conversely, the fourth quarter (Q4) consistently exhibited the lowest performance across sales, profit, and AOV
   - Despite a lower Average Order Value (AOV) in April, sales and net profit reached their peak. This indicates a high volume of transactions for items with strong profit margins, which significantly contributed to overall profitability even if the average value per order was not exceptionally high
   - Conversely, August and September exhibited high AOV and sales volume but yielded lower net profit margins. This suggests a high volume of transactions for higher-priced items that had lower profit margins, thereby boosting sales figures without translating into proportional profit growth
   - The observed drop in sales performance during Q4 may be attributed to the natural seasonality of the year-end period and potential shifts in market trends, which could impact consumer purchasing behavior
 
-Overall valid vs invalid sales performance trend:
-- In September, valid transactions across all categories reached their peak, with total sales hitting 559 million, generating 45 million in profit, and an Average Order Value (AOV) of 7.8 million. This suggests that while individual order values were high, the overall volume of valid transactions for high-value items contributed significantly to the peak sales performance
-- Conversely, invalid transactions peaked in August, recording 616 million in total sales, an associated 56 million in profit (from those invalid transactions), and a remarkably high AOV of 14 million. This indicates a substantial number of high-value orders that ultimately did not convert to valid transactions
-- The AOV data highlights a customer preference for high-priced items. Specifically, the high AOV observed in invalid transactions during August suggests a significant potential to recover and convert these high-value transactions into valid sales through improved validation processes, customer engagement, or addressing underlying issues causing invalidity
+- Overall valid vs invalid sales performance trend:
+  - In September, valid transactions across all categories reached their peak, with total sales hitting 559 million, generating 45 million in profit, and an Average Order Value (AOV) of 7.8 million. This suggests that while individual order values were high, the overall volume of valid transactions for high-value items contributed significantly to the peak sales performance
+  - Conversely, invalid transactions peaked in August, recording 616 million in total sales, an associated 56 million in profit (from those invalid transactions), and a remarkably high AOV of 14 million. This indicates a substantial number of high-value orders that ultimately did not convert to valid transactions
+  - The AOV data highlights a customer preference for high-priced items. Specifically, the high AOV observed in invalid transactions during August suggests a significant potential to recover and convert these high-value transactions into valid sales through improved validation processes, customer engagement, or addressing underlying issues causing invalidity
 
-Most potential categories:
-- For valid transactions, the 'Mobiles & Tablets' category achieved its highest Average Order Value (AOV) of approximately 265 million in September. This exceptionally high AOV for a single month strongly suggests the occurrence of a large-scale, high-value purchase, potentially from a single customer or a substantial bulk order. Notably, the AOV for invalid transactions within this category also reached a significant 91 million in August. This indicates a considerable potential for revenue recovery if the issues causing these high-value transactions to become invalid can be identified and resolved
-- The 'Entertainment' category secured the second-highest AOV for valid transactions, peaking at around 8 million in April. This signifies that, on average, completed orders in this category during April involved a substantial monetary value. However, the AOV for invalid transactions in Entertainment reached a higher 14 million in April. This stark difference points to a significant missed opportunity, where high-value customer intent did not translate into completed sales due to unresolved issues within the transaction process
-- The 'Computing' category demonstrated high potential in April with an AOV of approximately 14 million for valid transactions and a corresponding profit of around 39 million. This shows strong customer willingness to spend significantly per order, translating into good profitability
-- The 'Appliances' category also presents a promising conversion opportunity, showing potential sales of approximately 77 million and a profit of 22 million, with AOVs ranging from 5 million to 7 million in May and June. This sustained performance over two months indicates a consistent interest in high-value appliance purchases
+- Most potential categories:
+  - For valid transactions, the 'Mobiles & Tablets' category achieved its highest Average Order Value (AOV) of approximately 265 million in September. This exceptionally high AOV for a single month strongly suggests the occurrence of a large-scale, high-value purchase, potentially from a single customer or a substantial bulk order. Notably, the AOV for invalid transactions within this category also reached a significant 91 million in August. This indicates a considerable potential for revenue recovery if the issues causing these high-value transactions to become invalid can be identified and resolved
+  - The 'Entertainment' category secured the second-highest AOV for valid transactions, peaking at around 8 million in April. This signifies that, on average, completed orders in this category during April involved a substantial monetary value. However, the AOV for invalid transactions in Entertainment reached a higher 14 million in April. This stark difference points to a significant missed opportunity, where high-value customer intent did not translate into completed sales due to unresolved issues within the transaction process
+  - The 'Computing' category demonstrated high potential in April with an AOV of approximately 14 million for valid transactions and a corresponding profit of around 39 million. This shows strong customer willingness to spend significantly per order, translating into good profitability
+  - The 'Appliances' category also presents a promising conversion opportunity, showing potential sales of approximately 77 million and a profit of 22 million, with AOVs ranging from 5 million to 7 million in May and June. This sustained performance over two months indicates a consistent interest in high-value appliance purchases
 
-Most favorite payment method:
-- Cash-on-Delivery (COD) consistently remained the most favored payment method throughout 2022, despite exhibiting its highest transaction volumes in the first half of the year. Its sustained popularity likely stems from its perceived ease of use and accessibility for customers
+- Most favorite payment method:
+  - Cash-on-Delivery (COD) consistently remained the most favored payment method throughout 2022, despite exhibiting its highest transaction volumes in the first half of the year. Its sustained popularity likely stems from its perceived ease of use and accessibility for customers
 
 Recommendations:
 - Conduct in-depth research and analysis into market trends and customer behavior across both peak and low seasons to develop a robust strategic marketing plan aimed at sustaining high sales performance during peak periods and mitigating declines during low seasons in the coming year
@@ -163,3 +163,18 @@ Recommendations:
 - Strategically optimize sales efforts for high-priced and high-profit items to consistently boost overall sales performance and profitability
 - Leverage Cash-on-Delivery (COD) as a company strength by maintaining its ease of use and accessibility, given its sustained popularity throughout 2022
 - Simultaneously, conduct comprehensive research and analysis to optimize the adoption and usage of other payment methods. Explore implementing promotions and incentives for alternative payment methods to reduce reliance on COD, potentially mitigating associated risks (e.g., failed deliveries, returns) and diversifying payment options
+
+#### No 2
+Question: In 2022, display the 'Mobile & Tablet' category transactions that were completed via Jazzwallet payment. What are the quantities and the number of customers involved?
+
+Insights:
+- In 2022, there were no direct valid transactions recorded for the 'Mobile & Tablet' category via Jazzwallet payment. However, when considering 'Jazzvoucher' as an equivalent payment method, a notable valid transaction occurred
+- This single valid transaction involved 1,000 units of 'IDROIX_BALRX7-Gold' purchased by one customer, generating approximately $518 million in sales and $33 million in net profit
+- No discount was applied to this transaction
+- The exceptionally high volume of this single purchase suggests that the customer is likely engaging in reselling activities, which, in turn, indicates a strong market demand for the 'IDROIX_BALRX7-Gold' product
+- Despite this large singular transaction, the Jazzwallet/Jazzvoucher payment method remains largely underutilized and not yet optimized, evidenced by the lack of broader transaction activity
+
+Recommendations:
+- Implement exclusive discounts or loyalty programs for customers making high-volume purchases, similar to the observed Jazzvoucher transaction. This strategy aims to foster customer loyalty and reinforce the company's reputation as a preferred supplier for bulk orders
+- Maintain continuous vigilance on market trends, evolving customer behaviors, preferences, and advancements in technology. Utilize these insights to strategically build and maintain sales, positioning our e-commerce platform as a leading distributor and supplier for future business growth
+- Conduct comprehensive research and evaluation into the reasons behind the low transaction volume for Jazzwallet, Jazzvoucher, and other less popular payment methods. Develop strategies to improve the adoption of these methods, as they can potentially offer faster revenue cycles and lower risks compared to Cash-on-Delivery (COD)
